@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-   root 'posts#index'
+   root 'cars#index'
   resources :posts
 	resources :cars
 
